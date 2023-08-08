@@ -65,7 +65,9 @@ Para facilitar segue o código;
     } catch (Exception e) {
         e.printStackTrace();
     }
-} }
+} 
+}
+
 dados para criação do banco sql.
 
 CREATE TABLE Produtos (
